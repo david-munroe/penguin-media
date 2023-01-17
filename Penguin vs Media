@@ -15,8 +15,8 @@ div{
 </div>
 
 <video controls loop>
-  <source src="...." type="...">
-  <source src="...." type="....">
+  <source src="pengu-2.mp4" type="video/mp4">
+  <source src="movie.ogg" type="movie/ogg">
 </video>
 <img src="....png" alt="Log 1">
 <img src="....png" alt="Log 2">
